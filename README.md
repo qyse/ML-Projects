@@ -1,1 +1,1 @@
-# ML-Projects
+# Using news to predict stocks movements
